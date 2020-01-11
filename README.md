@@ -1,4 +1,4 @@
-# Convert
+# Convert: A project during my spare time over a weekend
 Convert number among Binary, Decimal, Octal, Hexadecimal
 
 It will allow the user to convert from:
